@@ -1,3 +1,7 @@
 vscode_accessKeys.csv
 cmds.txt
 .terraform/*
+.terraform
+.terraform.lock.hcl
+
+terraform.tfstate.backup
