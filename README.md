@@ -13,7 +13,7 @@ To connect to the Environment :
 * Generate your keys for the EC2 instance
 * Then, type the below command
 ```
-ssh -i <path to .ssh>\.ssh\<key-name> <instance_os>@<instace_public_ip>
+ssh -i <path to .ssh>\.ssh\<key-name> <instance_os>@<instance_public_ip>
 ```
 To connect to the Environment via vscode :
 * Install the Remote-SSH extension
