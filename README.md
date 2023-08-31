@@ -11,6 +11,11 @@
 
 To connect to the Environment : 
 * Generate your keys for the EC2 instance
+```
+ssh-keygen -t ed25519
+```
+
+
 * Then, type the below command
 ```
 ssh -i <path to .ssh>\.ssh\<key-name> <instance_os>@<instance_public_ip>
