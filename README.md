@@ -1,4 +1,4 @@
-# Dev Environment on EC2 using Terraform
+# Dev Environment on a EC2 using Terraform
 
 ### Deployed Services : 
 1. EC2 instance (t2.micro)
